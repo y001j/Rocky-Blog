@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Rocky Yang
-  url:        http://yangjian.co
+  url:        http://www.yangjian.co
 
 # Gems
 gems:
