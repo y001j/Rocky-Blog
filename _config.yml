@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        时间煮雨
+tagline:      Hope we can change something big with tiny point.
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Rocky Yang
+  url:        http://yangjian.co
 
 # Gems
 gems:
