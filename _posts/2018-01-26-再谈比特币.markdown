@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "再谈比特币"
+date:   2018-01-26 22:06:00
+categories: 区块链
+---
 #再谈比特币
 ***
 
