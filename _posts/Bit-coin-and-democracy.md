@@ -1,3 +1,10 @@
+---
+layout: default
+title:  "Bitcoin and Democracy"
+date:   2018-01-28 22:06:00
+categories: 区块链
+---
+
 ## Bitcoin and Democracy
 
 For talking about blockchain technology, indeed we are talking about a topic of **democracy** of technology
